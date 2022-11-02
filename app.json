@@ -1,0 +1,90 @@
+{
+  "id": "a4de899e-21f7-4f30-87e0-fdd56f2a723d",
+  "name": "TOR.Ext.LocalizationPL",
+  "publisher": "Torggler",
+  "version": "25.11.2.1",
+  "brief": "Localization PL",
+  "description": "All related Modifications for Torggler PL",
+  "privacyStatement": "https://www.torggler.com/int/en/privacy-policy/",
+  "EULA": "https://www.torggler.com/int/en/privacy-policy/",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "target": "Cloud",
+  "features": [
+    "TranslationFile"
+  ],
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "20.2.41144.41959"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "20.2.41144.41959"
+    },
+    {
+      "id": "bfad6f90-1665-4d45-b1a0-f7e027ac66b4",
+      "publisher": "Eos Solutions Spa",
+      "name": "TOR.Ext.Common Data Layer",
+      "version": "16.0.0.11"
+    },
+    {
+      "id": "211bd3bd-cfb0-4e94-890c-16925e6ce29e",
+      "publisher": "Eos Solutions",
+      "name": "EOS JSON Data Migration Engine",
+      "version": "16.0.2.38"
+    },   
+    {
+      "id": "a41facb4-aa1f-4f4b-a6d5-a574d9a33911",
+      "publisher": "IT.integro sp. z o.o.",
+      "name": "Polish Localization",
+      "version": "3.1.0.2"
+    },
+    {
+      "id": "fe26f18b-0f61-44e0-b065-11c6c60cd591",
+      "name": "Commissions",
+      "version": "16.0.154.0",
+      "publisher": "Eos Solutions"
+    },
+    {
+"id": "814e15ad-69eb-43cc-ac3f-4f0f3d10ff3c",
+"name": "Electronic Banking Base App",
+"version": "1.3.0.5",
+"publisher": "IT.integro sp. z o.o."
+    },
+    {
+"id": "9265ba93-0fdb-4622-b1c4-fd5af7e108f9",
+"name": "Electronic Banking Extension PL",
+"version": "3.0.0.5",
+"publisher": "IT.integro sp. z o.o."
+    },
+    {
+"id": "8bb96677-5112-4566-b742-12eebbb9a058",
+"name": "EOS Administration Library",
+"version": "20.0.18.0",
+"publisher": "EOS Solutions"
+    },
+    {
+"id": "0f82f650-6b22-4685-809e-d0e2cf8740fe",
+"name": "Customer Vendor Compensation",
+"version": "20.0.3.0",
+"publisher": "EOS Solutions"
+    }
+  ],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50450,
+      "to": 50550
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TOR.EXT.LOCALIZATIONPL.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
