@@ -21,8 +21,6 @@ pageextension 50477 "TOR Company Information" extends "Company Information"
             {
                 ApplicationArea = All;
             }
-
-
         }
 
         addafter("Auto. Send Transactions")
